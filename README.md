@@ -17,7 +17,7 @@ Instagram-scheduler is a bot based on python and selenium which allows to schedu
 ![Upload directory](https://user-images.githubusercontent.com/35691714/60392982-679c0080-9b40-11e9-8693-e254c503a443.png)
 * Lastly place your image nameing it photo and a captio in a .txt file as shown below.
 ![Upload directory](https://user-images.githubusercontent.com/35691714/60392990-95814500-9b40-11e9-87ef-4206ee15506a.png)
-* And thats it you are all set to go, just go to the folders directory and rund the following command:
+* And thats it you are all set to go, just go to the folders directory and run the following command:
 ```
 python bla.py
 ```
