@@ -11,7 +11,7 @@ Instagram-scheduler is a bot based on python and selenium which allows to schedu
 * Simiply downloading the directory and ensuring that all the requirements are met. 
 * Go to the config file and enter your instagram username and password as shown bellow.
 ![Upload directory](https://user-images.githubusercontent.com/35691714/60393016-0a547f00-9b41-11e9-9309-0413edf7a026.png)
-* Within the directory there is an upload folder with 31 folder each folder represents a day as shown below.
+* Within the directory there is an upload folder,which can consist of 31 folder each folder represents a day as shown below. (the current directory only has 3 folder do add more to suite your need. 
 ![Upload directory](https://user-images.githubusercontent.com/35691714/60392966-0c6a0e00-9b40-11e9-8d8a-28cfcf868bf6.png)
 * Within each day different uploads can be set up making a folder with the timestap as the folder name as shown below.
 ![Upload directory](https://user-images.githubusercontent.com/35691714/60392982-679c0080-9b40-11e9-8693-e254c503a443.png)
